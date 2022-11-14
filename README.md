@@ -1,2 +1,4 @@
-# public-client-assets
-This repo holds assets from projects and protocols for the use of reference in PrimeDAOs products.
+# Public Client Assets
+
+This repo contains documents like Allowlists, Terms & Conditions e.t.c for different projects and
+protocols for reference purposes.
